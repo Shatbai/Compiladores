@@ -1,0 +1,18 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+T__4=5
+T__5=6
+T__6=7
+Numero=8
+Boolean=9
+Variable=10
+WS=11
+'+'=1
+'<'=2
+'var'=3
+'='=4
+'si'=5
+'entonces'=6
+'si no'=7
